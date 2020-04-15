@@ -1,2 +1,2 @@
 # naval-battle
-A naval battle done in C to train my logic skills.
+A naval battle done in C/C++ to train my logic skills.
